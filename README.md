@@ -2,9 +2,7 @@
 
 **复盘一次编程会话，找到下次少走弯路的改进。**
 
-基于 [mattpocock/skills 的 retro](https://github.com/mattpocock/skills/tree/main/skills/engineering/retro) 小幅中文适配，独立维护、非官方。
-
-## 保留什么
+## 功能与流程
 
 保留上游按严重程度呈现改进候选的流程：文件导航、自动化检查、编码规范、全局指引、工具开销、无效指令和信息访问。先查看项目实际工具与原始会话，再判断哪里值得调整。
 
@@ -20,7 +18,9 @@ npx skills add batespaige357-tech/retro-cn --skill retro-cn
 
 手动安装复制 `skills/retro-cn` 完整目录，保留 references 和 agents。工具需要能读取用户指定会话与相关项目材料；本包不包含日志采集器，不会安装工具或自动修改全局配置。
 
-## 来源与检查
+## 来源与许可
+
+基于 [mattpocock/skills 的 retro](https://github.com/mattpocock/skills/tree/main/skills/engineering/retro)，由本仓库维护。
 
 MIT，保留 Matt Pocock 原版权和完整许可证，详见 [CHANGES.md](CHANGES.md)。
 

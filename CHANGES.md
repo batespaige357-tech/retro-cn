@@ -11,3 +11,8 @@ Changes: frontmatter name/Chinese description; move explicit-only invocation fro
 Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-17T11:51:25.554769+00:00; Trending (24h), retro #138, displayed 3.7K. Installation trend, not GitHub Star growth or creation date.
 
 Validation: original body comparison with documented dependency routing, two local references, explicit invocation policy, UTF-8, local Markdown targets and skill format. No real session retrospective, other-chat log access, global instruction change or assistant behavior evaluation. No frontend build.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。
